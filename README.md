@@ -1,6 +1,6 @@
 # IMPLEMENTACIÓN DE APIWEB USANDO NETCORE 6 C#
 
-Ejemplo practico de la implementacion de Api Web usando C# NETCORE 6
+Plantilla .NET usando DB MySQL
 
 
 ## Aclaración de licencia para la plataforma .net <a name="License"></a>
