@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XkApuBY/GRGhG7qobZZV7NirBJt6rrHDNF5xb1AGlC+f0r6unXxaKw8stg7WbJmcw4BuaQHaVdwaweJFhpkOyw==",
+  "dgSpecHash": "aWwHMf2VdB0EWEiTpfAt8PoPwuooKZ9D74QRDFJUfhQU3QEzOx/hnolw/U5OQ4Td1QdTQdytLA0mMH1b80NIcw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\asesor4.jsscp\\LMR-PROJECTS\\NET-PROJECTS\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\Users\\asesor4.jsscp\\LMR-PROJECTS\\NET-PROJECTS\\PLANTILLA MYSQL\\plantilla-net-mysql\\WebApi.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\asesor4.jsscp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "D:\\Users\\asesor4.jsscp\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",

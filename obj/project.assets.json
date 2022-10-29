@@ -1041,11 +1041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\asesor4.jsscp\\LMR-PROJECTS\\NET-PROJECTS\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\Users\\asesor4.jsscp\\LMR-PROJECTS\\NET-PROJECTS\\PLANTILLA MYSQL\\plantilla-net-mysql\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\Users\\asesor4.jsscp\\LMR-PROJECTS\\NET-PROJECTS\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\Users\\asesor4.jsscp\\LMR-PROJECTS\\NET-PROJECTS\\PLANTILLA MYSQL\\plantilla-net-mysql\\WebApi.csproj",
       "packagesPath": "D:\\Users\\asesor4.jsscp\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\asesor4.jsscp\\LMR-PROJECTS\\NET-PROJECTS\\WebApi\\WebApi\\obj\\",
+      "outputPath": "D:\\Users\\asesor4.jsscp\\LMR-PROJECTS\\NET-PROJECTS\\PLANTILLA MYSQL\\plantilla-net-mysql\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\asesor4.jsscp\\AppData\\Roaming\\NuGet\\NuGet.Config",

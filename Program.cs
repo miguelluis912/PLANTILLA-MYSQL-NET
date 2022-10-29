@@ -1,6 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using WebApi.Models;
-using WebApi.Servicios;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,14 +10,12 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 //**** inyectamos la conexion a la base de datos
-builder.Services.AddDbContext<chinookContext>(option =>
-{
-    // str_conn :: definimos la cadena de conexion para pasarselo a metodo ( UseMySql ) 
-    String str_conn = builder.Configuration.GetConnectionString("DefaultConnection");
-    option.UseMySql(str_conn, ServerVersion.AutoDetect(str_conn));
-});
-// inyectamos el uso de las clases de los servicios.
-builder.Services.AddScoped<ArtistaService>();
+// builder.Services.AddDbContext<name_context_database>(option =>
+// {
+//     // str_conn :: definimos la cadena de conexion para pasarselo a metodo ( UseMySql ) 
+//     String str_conn = builder.Configuration.GetConnectionString("DefaultConnection");
+//     option.UseMySql(str_conn, ServerVersion.AutoDetect(str_conn));
+// });
 
 var app = builder.Build();
 
